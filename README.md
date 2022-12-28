@@ -5,7 +5,7 @@ This is not the actual Truman Bot Repo. The actual repo is private. This repo is
 
 # Main commands that Truman Bot uses:
 
-    /courses - Displays the grade distribution for the specified class in a nicely formatted bar table
+    /courses - Displays the grade distribution for the specified class in a nicely formatted bar table (using a search engine format)
 
     /menus - Displays the menu and hours for that day at the specified dining hall
 
