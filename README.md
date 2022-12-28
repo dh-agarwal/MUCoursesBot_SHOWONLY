@@ -1,3 +1,6 @@
+THIS IS NOT THE ACTUAL TRUMAN BOT REPO. THE ACTUAL REPO IS PRIVATE. THIS REPO IS FOR PUBLIC USE- SOME PARTS OF THE CODE ARE EDITED TO MAINTAIN INTEGRITY/SECURITY.
+
+
 Main commands that Truman Bot uses:
 
     /courses - Displays the grade distribution for the specified class in a nicely formatted bar table
