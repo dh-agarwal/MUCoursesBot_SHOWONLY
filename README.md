@@ -1,4 +1,4 @@
-This is not the actual MUCoursesBot Repo. The actual repo is private. This repo is for public use- some parts of the the code are edited to maintain integrity/security.
+This is not the actual MUCoursesBot Repo. The actual repo is private. This repo is for public use- some parts of the code are edited to maintain security.
 
 # Demo:
 ![trumanbot](https://user-images.githubusercontent.com/63619126/209785043-77fa2bef-5421-4929-a169-5c9a1c7eb384.gif)
